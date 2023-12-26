@@ -2,11 +2,9 @@
 
 I implemented this Link.ly app as part of the [Django Bootcamp: Zero to Mastery](https://zerotomastery.io/courses/django-bootcamp/) course, taught by [Dominic Vacchiano](https://zerotomastery.io/about/instructor/dominic-vacchiano/).
 
-![App Homepage]<img width="1309" alt="link ly_homepage" src="https://github.com/peacebefore/linktree/assets/42794888/d8b7f5d6-032b-4566-8c4e-a58c1a0ffb4c">
-Link.ly home page
+Link.ly App Homepage<img width="1309" alt="link ly_homepage" src="https://github.com/peacebefore/linktree/assets/42794888/d8b7f5d6-032b-4566-8c4e-a58c1a0ffb4c">
 
-![Add Link]<img width="1257" alt="Screenshot 2023-12-26 at 10 14 48 AM" src="https://github.com/peacebefore/linktree/assets/42794888/2099daa7-cec0-44b6-9dd8-f1c7be06a2b4">
-Add a new link
+Add a New Link<img width="1257" alt="Screenshot 2023-12-26 at 10 14 48 AM" src="https://github.com/peacebefore/linktree/assets/42794888/2099daa7-cec0-44b6-9dd8-f1c7be06a2b4">
 
 -----------------------
 
